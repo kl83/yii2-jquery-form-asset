@@ -4,7 +4,7 @@
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "^2.0.0",
-        "bower-asset/jquery-form/jquery-form": "^4.0.0"
+        "jquery-form": "^4.0.0"
     },
     "license": "MIT",
     "authors": [
