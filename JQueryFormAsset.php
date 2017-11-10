@@ -3,7 +3,7 @@ namespace kl83\assets;
 
 class JQueryFormAsset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@bower/jquery-form/jquery-form';
+    public $sourcePath = '@bower/jquery-form';
     public $depends = [
         'yii\web\JqueryAsset',
     ];
